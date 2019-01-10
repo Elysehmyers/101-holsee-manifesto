@@ -1,0 +1,105 @@
+body {
+ 	text-align: center;
+  border: 5px solid #e6e6e6;
+  width: 290px;
+  height: 700px;
+
+}
+
+main {
+	width: 145px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+aside {
+	width: 145px;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+/* —– coral box —– */
+.item1 {
+	background: #ff6666;
+	font-family: 'Oswald', sans-serif;
+	padding: 1px 12px 20px;
+	font-size: 16px;
+	line-height: 23px;
+
+}
+
+/* —– dark blue box —— */
+.item2 {
+	background: #4949d0;
+	font-family: 'Quattrocento', serif;
+	padding: 19.5px 15px;
+	font-size: 12px;
+
+
+}
+
+/* —– baby blue box —– */
+.item3 {
+	background: #e6fff7;
+	font-family: 'Quattrocento', serif;
+	padding: 46px 10px;
+	font-size: 12px;
+
+}
+
+/* —– teal box —– */
+.item4 {
+	background: #009999;
+	font-family: 'Quattrocento', serif;
+	padding: 45.5px 5px;
+	font-size: 12px;
+}
+
+/* —– dark blue box —– */
+.item5 {
+	background: #4949d0;
+	font-family: 'Quattrocento', serif;
+	padding: 23px 10px;
+	font-size: 12px;
+}
+
+/* —– baby blue box —– */
+.item6 {
+	background: #e6fff7;
+	font-family: 'Quattrocento', serif;
+	padding: 23px 10px;
+	font-size: 12px;
+}
+
+/* —– teal box —– */
+.item7 {
+	background: #009999;
+	font-family: 'Quattrocento', serif;
+	padding: 26px 10px;
+	font-size: 12px;
+}
+
+/* —– coral box —– */
+.item8 {
+	background: #ff6666;
+	font-family: 'Oswald', sans-serif;
+	padding: 1px 12px 6px;
+	font-size: 16px;
+	line-height: 23px;
+}
+
+/*—– two paragraph box —–*/
+span.alt-font-1 {
+	font-family: 'Quattrocento', serif;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+/* —– single paragaph box —–*/
+span.alt-font-2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 10px;
+}
